@@ -78,6 +78,16 @@ body {
     font-size: 20px;
 
 }
+.nav a {
+    height: 40px;
+    width: 40px;
+    color: #fafafa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    text-decoration: none;
+}
 .nav1{
     
     height: 70px;
@@ -107,13 +117,14 @@ body {
 .imgdrake  img {
     width: 220px;
     height: 220px;
-    border-radius: 10px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 5px 1px rgba(255, 252, 252, 0.218);}
     
 }
 .imgdrake {
     width: 220px;
     height: 220px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 #progress {
